@@ -1,6 +1,8 @@
 # My-DotFiles
 # My Dotfiles
 
+**do not use my settings without knowing what are the results to these, DONT USE BLINDLY**
+
 This repository contains my personal dotfiles for configuring various tools and applications on my system. 
 
 ## Installation
